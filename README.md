@@ -1,9 +1,15 @@
 ## Gabryela Vera
-**`Desenvolvedora Python`**
+**`Estudante de Tecnologia | Python & Cibersegurança`**
 
-Me chamo Gabryela Vera Cruz, tenho 25 anos e sou natural de Pernambuco. Concluí o ensino médio no ETE Cícero Dias, com o curso técnico em Programação de jogos digitais. Atualmente, sigo estudando e me desenvolvendo de forma autodidata principalmente na linguagem Python.
+Olá! Sou Gabryela Vera, estudante autodidata de Tecnologia e apaixonada por programação e cibersegurança.
 
-### 🤖 Linguagens e Tecnologias
+Atualmente, estou me desenvolvendo principalmente em Python, além de estudar lógica de programação, HTML, CSS e fundamentos de segurança da informação.
+
+Também estou realizando uma certificação em Cibersegurança, com conclusão prevista para dezembro de 2026.
+
+Meu objetivo é construir experiência prática por meio de projetos, desenvolver minhas habilidades técnicas e iniciar minha carreira na área de Tecnologia.
+
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -45,5 +51,29 @@ Me chamo Gabryela Vera Cruz, tenho 25 anos e sou natural de Pernambuco. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Csharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  
+/>
+
+## Cibersegurança
+
+Atualmente, estou realizando uma certificação em Cibersegurança, com conclusão prevista para dezembro de 2026.
+
+Em estudos:
+- Fundamentos de Cibersegurança
+- Redes e protocolos
+- Segurança de endpoint
+  
+## Atualmente estudando
+
+-  Python
+-  Cibersegurança
+-  HTML e CSS
+-  Git e GitHub
 <br/>
 <br/>
