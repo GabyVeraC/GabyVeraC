@@ -1,7 +1,7 @@
 ## Gabryela Vera
 **`Estudante de Tecnologia | Python & Cibersegurança`**
 
-Olá! Sou Gabryela Vera, estudante autodidata de Tecnologia e apaixonada por programação e cibersegurança.
+Olá! Sou Gabryela Vera Cruz, estudante autodidata de Tecnologia e apaixonada por programação e cibersegurança.
 
 Atualmente, estou me desenvolvendo principalmente em Python, além de estudar lógica de programação, HTML, CSS e fundamentos de segurança da informação.
 
